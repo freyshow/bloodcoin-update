@@ -1,0 +1,10 @@
+[self]
+IAM=L2Updater.exe|1396541850|1220096
+
+[misc]
+Server=127.0.0.1
+ModifyHost=0
+
+[files]
+fcount=1
+F1=system\test.txt|3711878416|41|n
